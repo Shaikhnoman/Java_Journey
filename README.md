@@ -23,11 +23,11 @@ Here is a list of some of the programs included in this repository:
 ## How to Use
 1. Clone the repository to your local machine using:
     ```bash
-    git clone https://github.com/yourusername/JavaPracticeHub.git
+    git clone https://github.com/yourusername/Java_Journey.git
     ```
 2. Navigate to the directory:
     ```bash
-    cd JavaPracticeHub
+    cd Java_Journey
     ```
 3. Compile and run any of the Java programs using:
     ```bash

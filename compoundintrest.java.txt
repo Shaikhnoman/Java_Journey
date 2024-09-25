@@ -1,0 +1,16 @@
+import java.util.Scanner;
+class compoundintrest
+{
+public static void main(String args[])
+{
+Scanner s=new Scanner(System.in);
+int n;
+flaot ci,r,p;
+System.out.print("enter p,r,n");
+p=next.Float();
+r=next.Float();
+n=next.Int();
+ci=p*Math.pow((1+r/100),(double)n);
+System.out.print("compound intrest="+ci);
+}
+}
